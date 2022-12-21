@@ -1,0 +1,17 @@
+extends index.pug 
+
+block form
+  h2 INGRESE UN PRODUCTO NUEVO
+
+  form(action="/api/productos" method="POST")
+    div.form-group
+      label(for="name") Nombre del producto
+      input#name.form-control(type="text", name="title")
+    div.form-group
+      label(for="price") Precio
+      input#price.form-control(type="number", name="price")
+    div.form-group
+      label(for="picture") Foto del producto
+      input#picture.form-control(type="text", name="thumbnail")
+
+    button(type="submit") Guardar

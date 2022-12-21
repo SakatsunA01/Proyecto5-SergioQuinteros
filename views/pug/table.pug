@@ -1,0 +1,15 @@
+extends index.pug 
+
+block table 
+  h2 PRODUCTGOS ACTUALES
+  table.table.table-striped
+    tr
+      th Nombre
+      th Precio
+      th Foto
+    each n in productos
+      tr
+        td= n.title
+        td= n.price
+        td
+          img(src=n.thumbnail style='width:50px; height:50px;')

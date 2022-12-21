@@ -1,0 +1,26 @@
+[
+  {
+    "id": "porche-911",
+    "title": "Porche 911",
+    "price": "345.000",
+    "thumbnail": "https://files.porsche.com/filestore/image/multimedia/none/911-tus-modelimage-sideshot/model/930894f1-6214-11ea-80c8-005056bbdc38/porsche-model.png"
+  },
+  {
+    "id": "mercedes-benz-amg-gt",
+    "title": "Mercedes-Benz AMG GT",
+    "price": "324.000",
+    "thumbnail": "https://fotos.perfil.com/2018/06/01/1-mercedes-amg-gt-r-1.jpg"
+  },
+  {
+    "id": "maserati-granturismo",
+    "title": "Maserati Granturismo",
+    "price": "160.369",
+    "thumbnail": "https://img.remediosdigitales.com/59d79d/maserati_granturismo_modena_1/1366_2000.jpeg"
+  },
+  {
+    "id": "lamborghini-veneno",
+    "title": "Lamborghini Veneno",
+    "price": "4.500.000",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Geneva_MotorShow_2013_-_Lamborghini_Veneno_1.jpg/1200px-Geneva_MotorShow_2013_-_Lamborghini_Veneno_1.jpg"
+  }
+]
